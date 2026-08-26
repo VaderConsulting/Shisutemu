@@ -1,0 +1,55 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Legacy source-control bindings
+*.scc
+*.vssscc
+*.vspscc
+
+# NuGet
+packages/
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+**/appsettings.*.local.json
+
+# Google OAuth client secret (see Kiosk/client_secret.json.json.example)
+Kiosk/client_secret.json.json
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Import skips
+_UpgradeReport_Files/
+Backup/
+UpgradeLog.htm
+UpgradeLog.XML
+
+# SQL Server local DB files (may contain entrant PII)
+*.mdf
+*.ldf
+Data/Backup/
+
+# Live tournament entrant exports with emails/phones (see Data/*.example.csv)
+Data/2016_Entrants.csv
+Data/Output.csv
+Data/EntrantExport2016RockinghamOpenJudoChampionships_2510_231249 2.xls
+Data/EntrantExport2017JudoWAOpen_2909_174115.csv
+Data/EntrantExport2017SouthWestJudoChampionships_1210_102954.csv
+Data/EntrantExport2017SouthWestJudoChampionships_2710_104550.csv
+Data/2014 Rockingham Open Registrations.xlsx
+Data/2016 Rockingham Open Round Robin 2 Pool.docx
