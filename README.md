@@ -26,6 +26,10 @@ Solution folders also group Resources (technique images, national flags), Data, 
 
 Open `Shisutemu.sln` in Visual Studio (2017+ recommended for .NET Framework 4.7.1). Restore NuGet packages, then fix or remove the broken absolute paths to ClientServer/Interface if those projects are not on disk. For Kiosk Google OAuth, copy `Kiosk/client_secret.json.json.example` to `Kiosk/client_secret.json.json` and fill in your Google API client credentials. Entrant CSVs with live emails/phones are not in the repo; see `Data/*.example.csv` for column shape. Category XML under `Data/` and `Prefs.TournamentManager.xml` are safe sample configuration.
 
+## Requirements
+
+- Visual Studio 2017, .NET Framework 4.7.1
+
 ## Attribution and provenance
 
 - **Assembly product titles:** Judo Scoreboard, Kiosk, Haidenban, WillissConverter, Kurasu (Classes), Utilities, Comms, Scoreboard; App Starter assembly title “Key Remapper”
