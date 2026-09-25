@@ -32,11 +32,11 @@ Open `Shisutemu.sln` in Visual Studio (2017+ recommended for .NET Framework 4.7.
 
 ## Attribution and provenance
 
-- **Assembly product titles:** Judo Scoreboard, Kiosk, Haidenban, WillissConverter, Kurasu (Classes), Utilities, Comms, Scoreboard; App Starter assembly title “Key Remapper”
+- **Assembly product titles:** Judo Scoreboard, Kiosk, Haidenban, WillissConverter, Kurasu (Classes), Utilities, Comms, Scoreboard; App Starter assembly title "Key Remapper"
 - **Assembly copyright:** Copyright © 2016-2017; App Starter: Copyright © Vader Consulting 2017
 - **References:** IJF sport/organisation and refereeing rules PDFs linked in `References.txt` (Rackspace CDN URLs)
 - **Certificate:** `judowa.com.cer` (Judo WA TLS cert present in the tree)
-- Working copy from Dave Robinson’s OneDrive Historical Dev folder `Shisutemu`
+- Working copy from my Historical Dev folder `Shisutemu`
 
 ## License
 
