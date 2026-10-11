@@ -40,4 +40,4 @@ Open `Shisutemu.sln` in Visual Studio (2017+ recommended for .NET Framework 4.7.
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting. See `LICENSE`. Third-party NuGet packages (Newtonsoft.Json, Google.Apis, Entity Framework, ASP.NET Identity, etc.) remain under their own licenses when restored from NuGet.
+MIT. Copyright (c) 2026 Vader Consulting. See `LICENSE`. Third-party NuGet packages (Newtonsoft.Json, Google.Apis, Entity Framework, ASP.NET Identity, etc.) remain under their own licenses when restored from NuGet.
